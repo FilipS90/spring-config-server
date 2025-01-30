@@ -10,4 +10,4 @@ my:
 db:
   connection: "connection-string-here-from-config-server"
   host: 168.136.7.1
-  port: 8080
+  port: 9090
